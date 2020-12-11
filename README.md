@@ -1,4 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mikhail</h1>
+<h3 align="center">Investor & IT Developer. Ph.D.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=empenoso"/> </p>
+
+- 🔭 I’m currently working on: [Self-employment][website]!
+- 🌱 I’m currently learning everything 🤣
+- 💬 Ask me about The FIRE (Financial Independence, Retire Early) 🔥
+
+### Stats:
+<a href="https://github.com/empenoso">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=empenoso&show_icons=true&theme=light&line_height=27" height="200px"/>
+</a>
+
+### Connect with me:
+
+[<img align="left" alt="empenoso | Telegram messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg.svg" />][Telegram_messenger]
+[<img align="left" alt="empenoso | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK]
+[<img align="left" alt="empenoso | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+
+<br />
+
+[website]: https://shardin.name/
+[Telegram_messenger]: tg://resolve?domain=empenoso
+[VK]: https://vk.com/mshardin
+[Facebook]: https://www.facebook.com/mikhail.shardin
 
 <!--
 **empenoso/empenoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
