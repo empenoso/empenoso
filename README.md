@@ -20,7 +20,7 @@
 <br />
 
 [website]: https://shardin.name/
-[Telegram]: tg://resolve?domain=empenoso
+[Telegram]: https://t.me/empenoso
 [VK]: https://vk.com/mshardin
 [Facebook]: https://www.facebook.com/mikhail.shardin
 
