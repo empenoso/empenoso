@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="empenoso | Telegram messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg.svg" />][Telegram_messenger]
+[<img align="left" alt="empenoso | Telegram messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram_messenger]
 [<img align="left" alt="empenoso | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK]
 [<img align="left" alt="empenoso | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
