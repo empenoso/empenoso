@@ -2,7 +2,7 @@
 <h3 align="center">Investor & IT Developer. Ph.D.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=empenoso"/> </p>
 
-- 🔭 I’m currently working on: [Self-employment][website]!
+- 🔭 I’m currently working on: [Open Source Investment Report | SilverFir 🌲][website]!
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about The FIRE (Financial Independence, Retire Early) 🔥
 
@@ -19,7 +19,7 @@
 
 <br />
 
-[website]: https://shardin.name/
+[website]: https://fir.icu/
 [Telegram]: https://t.me/empenoso
 [VK]: https://vk.com/mshardin
 [Facebook]: https://www.facebook.com/mikhail.shardin
