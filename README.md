@@ -15,7 +15,7 @@
 
 [<img align="left" alt="empenoso | Telegram messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />][Telegram]
 [<img align="left" alt="empenoso | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vk.svg" />][VK]
-[<img align="left" alt="empenoso | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="empenoso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="empenoso | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" />][Facebook]
 
 <br />
