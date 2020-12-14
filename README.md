@@ -21,8 +21,8 @@
 
 [website]: https://fir.icu/
 [Telegram]: https://t.me/empenoso
-[VK]: https://vk.com/mshardin
-[Facebook]: https://www.facebook.com/mikhail.shardin
+[VK]: https://vk.com/shardin.surname
+[Facebook]: https://www.facebook.com/shardin.name
 
 <!--
 **empenoso/empenoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
