@@ -21,7 +21,7 @@
 
 [website]: https://fir.icu/
 [Telegram]: https://t.me/empenoso
-[VK]: https://vk.com/shardin.surname
+[VK]: https://vk.com/shardin_name
 [Facebook]: https://www.facebook.com/shardin.name
 
 <!--
