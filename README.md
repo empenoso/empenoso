@@ -26,7 +26,7 @@
 [VK]: https://vk.com/shardin_name
 [Instagram]: https://www.instagram.com/shardin.name/
 [Facebook]: https://www.facebook.com/shardin.name
-[Strava]: https://www.strava.com/athletes/21587005
+[Strava]: https://www.strava.com/athletes/shardin_name
 
 <!--
 **empenoso/empenoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
