@@ -19,7 +19,7 @@
 
 <br />
 
-[website]: https://fir.icu/
+[website]: https://github.com/empenoso/SilverFir-Investment-Report/tree/master/Node.js%20Release/bond_search_v2
 [Telegram]: https://t.me/empenoso
 [VK]: https://vk.com/shardin_name
 [Strava]: https://www.strava.com/athletes/shardin_name
