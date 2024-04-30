@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="empenoso | Telegram messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />][Telegram]
-[<img align="left" alt="empenoso | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vk.svg" />][VK]
-[<img align="left" alt="empenoso | Strava" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/strava.svg" />][Strava]
+[<img src="https://api.iconify.design/simple-icons/telegram.svg?height=22&color=grey" />][Telegram]
+[<img src="https://api.iconify.design/simple-icons/vk.svg?height=22&color=grey" />][VK]
+[<img src="https://api.iconify.design/simple-icons/strava.svg?height=22&color=grey" />][Strava]
 
 <br />
 
@@ -28,9 +28,11 @@
 [Strava]: https://www.strava.com/athletes/shardin_name
 
 <!--
+[<img align="left" alt="empenoso | Telegram messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" />][Telegram]
 [<img align="left" alt="empenoso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="empenoso | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" />][Facebook]
-
+[<img align="left" alt="empenoso | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vk.svg" />][VK]
+[<img align="left" alt="empenoso | Strava" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/strava.svg" />][Strava]
 
 **empenoso/empenoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
