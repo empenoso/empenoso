@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&random=false&width=435&lines=Hi!+I+am+Mikhail)](https://shardin.name/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1560BD&center=true&random=false&width=435&lines=Hi!+I+am+Mikhail)](https://shardin.name/)
 
 <h3 align="center">Investor & IT Developer. Ph.D.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=empenoso"/> </p>
@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-[<img src="https://api.iconify.design/simple-icons/telegram.svg?height=22&color=blue" />][Telegram]
-[<img src="https://api.iconify.design/simple-icons/vk.svg?height=22&color=blue" />][VK]
-[<img src="https://api.iconify.design/simple-icons/strava.svg?height=22&color=blue" />][Strava]
+[<img src="https://api.iconify.design/simple-icons/telegram.svg?height=22&color=grey" />][Telegram]
+[<img src="https://api.iconify.design/simple-icons/vk.svg?height=22&color=grey" />][VK]
+[<img src="https://api.iconify.design/simple-icons/strava.svg?height=22&color=grey" />][Strava]
 
 <br />
 
