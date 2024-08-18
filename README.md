@@ -20,7 +20,7 @@
 
 <br />
 
-[website]: https://github.com/empenoso/SilverFir-Investment-Report/tree/master/Node.js%20Release/2023_bond_search
+[website]: https://github.com/empenoso/SilverFir-Investment-Report/tree/master/Node.js%20Release
 [Telegram]: https://t.me/empenoso
 [VK]: https://vk.com/shardin_name
 [Strava]: https://www.strava.com/athletes/shardin_name
