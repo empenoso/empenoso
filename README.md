@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36D399¢er=true&vCenter=true&width=435&lines=Hi!+I'm+Mikhail!+%F0%9F%91%8B;Automating+Life,+One+Project+at+a+Time" alt="Animated header saying: Hi! I'm Mikhail! Automating Life, One Project at a Time" />
 </h1>
 
-<img src="images/2024_10_Smartlab.jpg" align="right" height="600" alt="My" />
-
 👋 Hello there!
+
+<img src="images/2024_10_Smartlab.jpg" align="right" height="600" alt="My" />
 
 I'm Mikhail, a passionate advocate for efficient living through smart technology and financial savvy.  I'm actively involved in various online communities, always looking to share and learn about personal finance, investing, home automation, and DIY projects.
 
