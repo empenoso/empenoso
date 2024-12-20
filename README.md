@@ -25,11 +25,11 @@ I'm a firm believer that technology and financial knowledge can empower us to li
 
 <br />
 <p align="center">
-    <a href="https://t.me/empenoso"><img src="https://api.iconify.design/simple-icons/telegram.svg?height=42"></a>
+    <a href="https://t.me/empenoso"><img src="https://api.iconify.design/simple-icons/telegram.svg?height=42&color=blue"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://vk.com/shardin_name"><img src="https://api.iconify.design/simple-icons/vk.svg?height=42"></a>
+    <a href="https://vk.com/shardin_name"><img src="https://api.iconify.design/simple-icons/vk.svg?height=42&color=blue"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.strava.com/athletes/shardin_name"><img src="https://api.iconify.design/simple-icons/strava.svg?height=42"></a>
+    <a href="https://www.strava.com/athletes/shardin_name"><img src="https://api.iconify.design/simple-icons/strava.svg?height=42&color=blue"></a>
     &nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
