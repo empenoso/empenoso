@@ -12,7 +12,7 @@ My focus areas include:
 
 * **💰  Investing & Financial Independence:**  I'm fascinated by the world of finance and constantly exploring strategies for building wealth and achieving financial independence. This includes diving deep into stocks, bonds, alternative investments, and early retirement strategies (FIRE).  I enjoy sharing my findings and discussing different approaches to personal finance.
 
-* **🏡 Smart Home & Automation:** My home is my playground! I love experimenting with DIY home automation solutions, focusing on cost-effective implementations and maximizing efficiency.  From tinkering with [mention specific technologies or platforms you use, e.g., Home Assistant, ESPHome, etc.] to optimizing energy usage, I'm always looking for ways to make my home smarter.
+* **🏡 Smart Home & Automation:** My home is my playground! I love experimenting with DIY home automation solutions, focusing on cost-effective implementations and maximizing efficiency.  From tinkering with Home Assistant, ESPHome, etc. to optimizing energy usage, I'm always looking for ways to make my home smarter.
 
 * **🛠️ DIY & Problem Solving:** I thrive on finding creative solutions to everyday challenges.  Whether it's automating tasks with scripts, building custom tools, or tackling home improvement projects, I enjoy the process of identifying problems and crafting effective solutions.  I believe in the power of continuous learning and improvement.
 
