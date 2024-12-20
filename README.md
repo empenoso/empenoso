@@ -1,8 +1,8 @@
-<h1 align="center">
-  <img src="your_profile_picture.png" width="200" alt="Your Name Profile Picture"><br />
+<h1 align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36D399¢er=true&vCenter=true&width=435&lines=Hi!+I'm+Mikhail!+%F0%9F%91%8B;Automating+Life,+One+Project+at+a+Time" alt="Animated header saying: Hi! I'm Mikhail! Automating Life, One Project at a Time" />
 </h1>
 
+<img src="images/2024_10_Smartlab.jpg" align="right" height="600" alt="My" />
 
 👋 Hello there!
 
