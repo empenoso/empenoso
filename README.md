@@ -33,7 +33,7 @@ I'm a firm believer that technology and financial knowledge can empower us to li
     &nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-My personal website: <a href="https://shardin.name/">https://shardin.name/</a><br>
+My personal website: <a href="https://shardin.name/?utm_source=github">https://shardin.name/</a><br>
 </p>
 
 ### :star2: GitHub Stats
