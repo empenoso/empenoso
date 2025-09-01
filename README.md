@@ -1,5 +1,8 @@
-<h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36D399¢er=true&vCenter=true&width=435&lines=Hi!+I'm+Mikhail!+%F0%9F%91%8B;Automating+Life,+One+Project+at+a+Time" alt="Animated header saying: Hi! I'm Mikhail! Automating Life, One Project at a Time" />
+    
+<h1 align="center">
+  <a href="https://github.com/empenoso">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36D399&center=true&vCenter=true&width=435&lines=Hi!+I'm+Mikhail!+%F0%9F%91%8B;Automating+Life,+One+Project+at+a+Time" alt="Animated header saying: Hi! I'm Mikhail! Automating Life, One Project at a Time" />
+  </a>
 </h1>
 
 👋 Hello there!
