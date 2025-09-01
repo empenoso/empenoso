@@ -44,7 +44,6 @@ My personal website: <a href="https://shardin.name/?utm_source=github">https://s
 ![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=empenoso&rank_icon=github&show_icons=true&theme=solarized-dark&count_private=true&locale=en)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=empenoso&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=empenoso&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=empenoso&theme=solarized_dark)
 
 ---
 
